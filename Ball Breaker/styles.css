@@ -1,0 +1,12 @@
+/* the * means everything in the document */
+*{
+    margin:0;
+    padding:0;
+    background-color:black;
+    color:white;
+  
+}
+canvas {
+     background-color: black;
+}
+  
